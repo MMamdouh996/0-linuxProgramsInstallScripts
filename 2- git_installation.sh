@@ -2,7 +2,7 @@
 
 sudo add-apt-repository ppa:git-core/ppa -y;
 sudo apt update;
-sudo apt install git ;
+sudo apt install git -y;
 
 # you have to config the git after installtion
 # set ur ssh-key
